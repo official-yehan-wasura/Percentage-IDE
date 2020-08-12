@@ -1,0 +1,5 @@
+
+SOURCES += percentage_ide/translations.py 
+
+
+TRANSLATIONS = percentage.ts

@@ -1,0 +1,3 @@
+pyrcc4 percentage_ide/percentage_resources.qrc -o percentage_ide/percentage_resources.py -py3
+
+pylupdate4 percentage_translate percentage.ts
